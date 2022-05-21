@@ -21,7 +21,7 @@
   <li>Variables enteros</li>
  </ul>
 <br>
- <li> <b> Objetivo: </b> Crear un programa en C que usando funciones calcule el area de circulo y rectangulo </li>
+ <li> <b> Objetivo: </b> Crear un programa en C que usando funciones calcule el area de circulo y rectangulo. </li>
  <br>
  <li><b> Breve descripción: </b>Programa 19 en C que realiza calculos de areas de figura circulo, rectangulo para la materia programacion estructurada. </li>
 
